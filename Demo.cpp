@@ -5,6 +5,7 @@
  * @since: 2022-02
  */
 
+#include "Game.hpp"
 #include "Player.hpp"
 #include "Duke.hpp"
 #include "Assassin.hpp"
