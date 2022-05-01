@@ -1,3 +1,5 @@
+# pragma once
+
 namespace coup{
 
     class Assassin : public Player{

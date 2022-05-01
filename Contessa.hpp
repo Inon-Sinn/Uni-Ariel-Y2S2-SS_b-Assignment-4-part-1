@@ -1,3 +1,4 @@
+# pragma once
 namespace coup{
 
     class Contessa : public Player{

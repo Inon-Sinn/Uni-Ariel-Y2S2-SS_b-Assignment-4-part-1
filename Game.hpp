@@ -2,6 +2,7 @@
 #include <stdexcept>
 #include <vector>
 #include <string>
+#pragma once
 
 using namespace std;
 

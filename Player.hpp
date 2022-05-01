@@ -2,6 +2,8 @@
 #include <stdexcept>
 #include <vector>
 #include <string>
+#include "Game.hpp"
+#pragma once
 
 using namespace std;
 
